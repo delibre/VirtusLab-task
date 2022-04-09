@@ -1,8 +1,8 @@
 ﻿# VirtusLab-task
 
-## Author: Viacheslav Bylo
+### Author: Viacheslav Bylo
 
-## TODO
+### TODO
 
 * fixed the source code to make the tests pass
 * implemented 15% discount
@@ -11,7 +11,7 @@
 * added rest-like endpoint to make application accept basket information and return the receipt data
 * prepared tests for new discount, manager and endpoints
 
-## Technologies
+### Technologies
 
 * Java
 * Spring Boot
